@@ -1,0 +1,12 @@
+{
+  "name": "uniblox",
+  "version": "1.0.0",
+  "description": "This project implements a simple ecommerce store API that allows clients to manage their shopping carts, place orders, and apply discount codes. It includes admin functionalities for generating discount codes and viewing purchase statistics.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
